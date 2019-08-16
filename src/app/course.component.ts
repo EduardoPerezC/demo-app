@@ -6,6 +6,7 @@ import { Component } from '@angular/core';
 })
 
 export class CourseComponent {
+	title = "this is a new title"
 	
 	
 }
