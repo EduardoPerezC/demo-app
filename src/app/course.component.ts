@@ -13,7 +13,7 @@ export class CourseComponent {
 	
 	onSave(){
 		
-		this.result = "saving changes"
+		this.result = this.name
 	}
 	
 	
