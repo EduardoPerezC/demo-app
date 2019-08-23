@@ -6,7 +6,14 @@ import { Component } from '@angular/core';
 })
 
 export class CourseComponent {
+	name = "Math"
+	category = "science"
 	title = "this is a new title"
+	
+	onSave(){
+		
+		alert('saving changes')
+	}
 	
 	
 }
