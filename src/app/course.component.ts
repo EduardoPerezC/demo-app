@@ -9,10 +9,11 @@ export class CourseComponent {
 	name = "Math"
 	category = "science"
 	title = "this is a new title"
+	result = ""
 	
 	onSave(){
 		
-		alert('saving changes')
+		result = "saving changes"
 	}
 	
 	
