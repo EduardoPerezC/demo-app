@@ -6,8 +6,8 @@ import { Component } from '@angular/core';
 })
 
 export class CourseComponent {
-	name = "Math"
-	category = "science"
+	name = "Universal History"
+	category = "Literal"
 	title = "this is a new title"
 	result = ""
 	
